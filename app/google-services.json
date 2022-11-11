@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628262685541",
+    "project_id": "ekart-20495",
+    "storage_bucket": "ekart-20495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628262685541:android:51969f52a3349851b8af8c",
+        "android_client_info": {
+          "package_name": "com.app.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628262685541-kjo72r52ne7lev71p2fig8h5f5f7os6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHV0vrLpnQk_7mDHiPYFYvrdz3uRsKHe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628262685541-kjo72r52ne7lev71p2fig8h5f5f7os6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
