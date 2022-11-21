@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:background="#F9A825"
     tools:context=".RegisterActivity">
+
     <ImageView
         android:id="@+id/register_applogo"
         android:layout_width="300dp"
