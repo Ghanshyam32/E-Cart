@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/register"
+    android:background="#F9A825"
     tools:context=".RegisterActivity">
     <ImageView
         android:id="@+id/register_applogo"
         android:layout_width="300dp"
         android:layout_height="100dp"
-        android:src="@drawable/applogo"
+        android:src="@drawable/onlineshopping"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="80dp"
         />

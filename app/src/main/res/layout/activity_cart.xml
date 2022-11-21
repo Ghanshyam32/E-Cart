@@ -9,7 +9,7 @@
         android:id="@+id/r111"
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="@color/colorPrimaryDark"
+        android:background="#D84315"
         android:layout_alignParentTop="true"
         >
         <TextView
@@ -50,7 +50,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:background="@color/colorPrimaryDark"
+        android:background="#D84315"
         android:text="Next"
         android:textColor="@android:color/white"
         android:textSize="25dp"

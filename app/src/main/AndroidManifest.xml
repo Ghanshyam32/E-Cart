@@ -14,9 +14,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Ekart"
         tools:replace="android:theme">
-        <activity android:name="com.app.shopping.HomeActivity"
+        <activity
+            android:name="com.app.shopping.HomeActivity"
 
-            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity android:name="com.app.shopping.SettinsActivity" />
         <activity android:name="com.app.shopping.SearchProductsActivity" />
         <activity android:name="com.app.shopping.RegisterActivity" />
@@ -38,6 +39,10 @@
         <activity
             android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
             android:theme="@style/Base.Theme.AppCompat" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
