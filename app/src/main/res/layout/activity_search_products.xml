@@ -28,19 +28,19 @@
             android:textColorHint="@color/colorPrimaryDark"
 
             />
+
         <Button
             android:id="@+id/search_btn"
             android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_toRightOf="@+id/search_product_name"
+            android:background="@color/colorPrimaryDark"
+            android:padding="9dp"
             android:text="Search"
             android:textColor="@android:color/white"
             android:textSize="16dp"
-            android:textStyle="bold"
-            android:layout_centerInParent="true"
-            android:layout_height="wrap_content"
-            android:background="@color/colorPrimaryDark"
-            android:padding="9dp"
-            android:layout_toRightOf="@+id/search_product_name"
-            />
+            android:textStyle="bold" />
 
     </RelativeLayout>
     <androidx.recyclerview.widget.RecyclerView
